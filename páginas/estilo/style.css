@@ -17,7 +17,7 @@
 
 html, body{
     min-height: 100vh;
-    background-color: darkgray;
+    background-color: white;
     font-family: var(--fonte1);
 }
 
@@ -36,6 +36,20 @@ header > h1{
 
 header > p{
     padding-bottom: 50px;
+}
+
+div{
+    background-color: white;
+    color: black;
+    text-align: left;
+    margin: 10px 0px;
+}
+
+div > h1{
+    font-family: var(--fonte2);
+    font-size: 6vw;
+    padding-left: 30px;
+    margin-top: 50px;
 }
 
 a{
@@ -88,7 +102,7 @@ section#img01{
 }
 
 section#img02{
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('../imagens/images.jpg');
 }
 
 aside{
