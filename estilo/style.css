@@ -97,27 +97,27 @@ section.imagem > p{
 }
 
 section#img01{
-    background-image: url('../imagens/pexels-anastasiia-chaikovska-12367754.jpg');
+    background-image: url('../imagens/pexels-anastasiia.png');
     background-position: top center;
 }
 
 section#img02{
-    background-image: url('../imagens/pexels-craig-adderley-1727659.jpg');
+    background-image: url('../imagens/pexels-craig.jpg');
     background-position: bottom center;
 }
 
 aside{
     text-align: center;
+    color: black;
 }
 
-aside > p{
-    background-color: rgb(54, 50, 50);
-    color: black;
+aside > a{
+    color: rgba(241, 175, 99, 0.89);
     text-decoration: none;
 }
 
 footer{
-    background-color: black;
+    background-color: rgba(241, 175, 99, 0.89);
     color: white;
     text-align: center;
     padding: 10px;

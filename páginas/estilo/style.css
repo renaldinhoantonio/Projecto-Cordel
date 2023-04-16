@@ -102,21 +102,20 @@ section#img01{
 }
 
 section#img02{
-    background-image: url('../imagens/images.jpg');
+    background-image: url('../imagens/images2.jpg');
 }
 
 aside{
     text-align: center;
 }
 
-aside > p{
-    background-color: rgb(54, 50, 50);
-    color: black;
+aside > a{
+    color: rgb(22, 128, 146);
     text-decoration: none;
 }
 
 footer{
-    background-color: black;
+    background-color: rgb(22, 128, 146);
     color: white;
     text-align: center;
     padding: 10px;
